@@ -1,5 +1,5 @@
 <?php
-namespace  buithaihien\api;
+namespace  buithaihien\telegramxsm;
 
 class TelegramBot {
     private $botToken;

@@ -1,12 +1,12 @@
 {
-    "name": "buithaihien/telegram",
+    "name": "buithaihien/telegramxsm",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "buithaihien\\api\\": "src/"
+            "buithaihien\\telegramxsm\\": "src/"
         },
         "files": [
-            "src/telegram.php"
+            "src/telegramxsm.php"
         ]
     },
     "authors": [
