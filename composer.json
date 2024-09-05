@@ -1,0 +1,19 @@
+{
+    "name": "buithaihien/telegram",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "buithaihien\\api\\": "src/"
+        },
+        "files": [
+            "src/telegram.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "buithaihien",
+            "email": "thanhtungktfako1@gmail.com"
+        }
+    ],
+    "require": {}
+}
